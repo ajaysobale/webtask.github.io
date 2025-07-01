@@ -1,0 +1,4 @@
+body { margin: 0; font-family: 'Arial', sans-serif; }
+header, footer { background: #333; color: #fff; padding: 1rem; }
+main { padding: 2rem; }
+.testimonial img { max-width: 100%; border-radius: 10px; }
